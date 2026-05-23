@@ -1,3 +1,3 @@
 # João Vidal
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&fontColor=&color=0:EEFF00,100:A9A9A9&fontSize=13&animation=twinkling"/>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=14777505022451758" height="300" width="600" frameborder="0" scrolling="no" ></iframe>
