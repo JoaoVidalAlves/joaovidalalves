@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  <b>VIDAL</b>
+  <b>/ᐠ - ˕ -マ VIDAL ฅ ฅ</b>
   <samp>
       <br>
       Hi there! I'm <b>João Vidal</b>
