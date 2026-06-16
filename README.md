@@ -1,6 +1,6 @@
 # João Vidal
 
-<img width="100%" src="./assets/bannerup.jpg">
+<img width="80%" src="./assets/bannerup.jpg">
 
 <br>
 
