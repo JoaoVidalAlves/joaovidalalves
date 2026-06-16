@@ -15,10 +15,6 @@
 
 <div align="center" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=037906&width=435&lines=I+am+from+Brazil" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=339241&width=435&lines=I+am+a+student+of+Systems+Development" alt="Typing SVG"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=339241&width=435&lines=You're+welcome!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=048D07&width=435&lines=++++++++++++++++++++++I+am+from+Brazil;I+am+a+student+of+Systems+Development;++++++++++++++++++++++You're+welcome!" alt="Typing SVG" />
   
 </div>
