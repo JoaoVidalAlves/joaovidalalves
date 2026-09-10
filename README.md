@@ -1,22 +1,35 @@
-# João Vidal
+# Olá! Eu sou João Vidal
 
-<p align="center">
-  <img src="./assets/bannerup2.jpg" width="100%" height="350" style="object-fit:cover;">
-</p>
+Estudante de Desenvolvimento de Sistemas no COLTEC/UFMG
 
-<br>
+💻 Atualmente estudando e desenvolvendo projetos com:
+- C
+- C++
+- C#
+- PHP
+- SQL
+- MySQL
 
-<div align="center">
-  
-  <b>/ᐠ - ˕ -マ ฅ ฅ</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>João Vidal</b>
-  </samp>
-</div>
+Tenho interesse em desenvolvimento de sistemas, programação orientada a objetos, 
+bancos de dados e desenvolvimento web.
 
-<div align="center" width="100%">
+Atualmente buscando uma oportunidade de estágio em TI,
+desenvolvimento de software ou suporte técnico.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=048D07&center=true&width=700&lines=I+am+from+Brazil;I+am+a+student+of+Systems+Development;You're+welcome!" />
-  
-</div>
+## Tecnologias
+
+- C / C++
+- C#
+- PHP
+- SQL
+- MySQL
+- Git / GitHub
+
+## Projetos
+
+Aqui você pode encontrar projetos acadêmicos e pessoais
+desenvolvidos durante minha formação.
+
+## Contato
+
+[LinkedIn] https://www.linkedin.com/in/joaopedrovidalalves/
