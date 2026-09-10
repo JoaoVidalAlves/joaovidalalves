@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas no COLTEC/UFMG
 
-💻 Atualmente estudando e desenvolvendo projetos com:
+Atualmente estudando e desenvolvendo projetos com:
 - C
 - C++
 - C#
